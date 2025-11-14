@@ -24,9 +24,10 @@ For those interested in my writing skills, it provides insight into my voice, vi
 ## Case Studies by Strategic Process and Impact
 Click on any title to view the full analysis of the challenge, methodology, and measurable outcomes. <br>
 
-1.  **Scaling Content Strategy Through Hyper-Growth, Mergers, and Aquisitions** <br>
+1.  **Scaling Content Strategy through Hyper-Growth, Mergers, and Aquisitions** <br>
+    * **experience** Senior (2019-2025 ; 6 years)
     * https://github.com/nkayen/Content-and-Communication/blob/main/case-studies/01-scaling-content.md <br>
-2.  **Architecting Training Systems for 60% Onboarding Reduction** <br>
+2.  **Architecting Training Systems and Curricula** <br>
     * [Link: `./case-studies/02-training-architecture.md`] <br>
 3.  **Driving Operational Efficiency via Cross-Functional Comms** <br>
     * [Link: `./case-studies/03-operational-comms.md`] <br>
